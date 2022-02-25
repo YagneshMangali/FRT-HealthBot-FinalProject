@@ -49,7 +49,7 @@ Tasks
 
 We successfully hosted our website web
 ![image](https://user-images.githubusercontent.com/78140862/155737484-6f802223-4064-4d03-8d5d-2430d14c83d8.png)
-
+https://user-images.githubusercontent.com/91495338/152352748-d9ae0c29-7e80-471c-b03a-5b1dacf79975.mp4
 Task
 
 Summary With Azure QnA Maker, Azure QnA Maker and Azure Storage Static web hosting, we have configured a chatbot service which has capability to answer covid-19 related questions.

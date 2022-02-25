@@ -26,7 +26,7 @@ Tasks We Publish the Bot by navigating to publish. To Publish we need Azure bot 
 Azure Bot Service
 
 We create a azure bot service from Azure portal.
-![image](https://user-images.githubusercontent.com/78140862/155737402-d9692d9a-0706-4099-937d-8af322b53660.png)
+
 
 Tasks
 

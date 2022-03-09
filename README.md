@@ -10,7 +10,7 @@ Project Description Bot-Services-QnAMaker-and-Knowledgebase
 Setting up the Environment QnA Maker
 
 Create Azure resource from create resource and navigate to QnA Maker Choose Free pricing tier, select appropaite location for App Service Plan, Azure search and Also enabled App insight for Telemetry and chatlogs which will be stored here. Tasks Screenshot (o
-![image](![FRT1](https://user-images.githubusercontent.com/78140862/157388037-4e53f826-64b6-4a3a-934a-06460eaaf734.png))
+![image](https://user-images.githubusercontent.com/78140862/157388037-4e53f826-64b6-4a3a-934a-06460eaaf734.png)
 
 Go to view Resource and navigate to Quick start and go to QnA Portal. Add appropaite details and fill the knowledge base Screenshot (p
 

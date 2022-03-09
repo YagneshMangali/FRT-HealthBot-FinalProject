@@ -15,7 +15,8 @@ Create Azure resource from create resource and navigate to QnA Maker Choose Free
 Go to view Resource and navigate to Quick start and go to QnA Portal. Add appropaite details and fill the knowledge base Screenshot (p
 
 Tasks
-![image](https://user-images.githubusercontent.com/78140862/155737210-f2ef4cdd-e28b-4485-9334-ccadbf77ba7b.png)
+![image](https://user-images.githubusercontent.com/78140862/157388690-6e0a5850-e1b7-4425-8a23-ab14d5eb7513.png)
+
 
 
 Press Create. With Knowledge base editor we add new sets of QnA or Configure the questions. We navigate to save and train to save the changes. testKB1
